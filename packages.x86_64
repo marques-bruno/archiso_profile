@@ -126,6 +126,12 @@ os-prober
 networkmanager
 network-manager-applet
 xorg
+xorg-setxkbmap
+xorg-server-utils
+xf86-input-evdev
+xf86-input-keyboard
+xf86-input-synaptics
+xf86-input-libinput
 lightdm
 lightdm-gtk-greeter
 qutebrowser
@@ -134,3 +140,4 @@ xfce4-goodies
 arc-gtk-theme
 arc-icon-theme
 papirus-icon-theme
+wget
