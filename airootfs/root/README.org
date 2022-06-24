@@ -1,0 +1,7 @@
+Welcome to this Archiso.
+
+1. run the oh-my-zsh script to install zsh themes if you so desire..
+2. perform your install and run the pacstrap script to install all the required dependencies for the later install
+3. copy the copy-me folder into the root directory before arch-chrooting your new OS and finishing the install.
+
+4. Once you're done installing your new system, reboot, log in as root and run the playbook script!
